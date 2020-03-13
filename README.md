@@ -9,7 +9,7 @@ Colorize black and white video to color video with OpenCV :
   ![input.gif](https://github.com/imzndp/Black-and-white-video-colorization/blob/master/img/input.gif)
   
   ## OUTPUT VIDEO:
-  ![output.gif](https://github.com/imzndp/Black-and-white-video-colorization/blob/master/img/input.gif)
+  ![output.gif](https://github.com/imzndp/Black-and-white-video-colorization/blob/master/img/output.gif)
   
   # Requirement
 - Python
