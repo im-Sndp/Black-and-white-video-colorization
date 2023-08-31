@@ -1,7 +1,7 @@
 <!-- Black-and-white-video-colorization README -->
 
 <p align="center">
-  <img src="project-preview.jpg" alt="Project Preview"/>
+  <img src="https://pyimagesearch.com/wp-content/uploads/2019/02/bw_colorization_opencv_header.jpg" alt="Project Preview"/>
 </p>
 
 <h1 align="center">Black-and-white Video Colorization</h1>
